@@ -1,6 +1,6 @@
 ---
 # Display name
-title: UZI
+title: UZIovo
 
 # Name pronunciation (optional)
 name_pronunciation: uzi
