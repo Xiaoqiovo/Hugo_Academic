@@ -31,4 +31,5 @@ jobs:
           external_repository: Xiaoqiovo/Xiaoqiovo.github.io  # 替换为你的 GitHub Pages 仓库
           publish_branch: main  # 或者 master，取决于你的默认分支
           publish_dir: ./public
+          force_orphan: true  # 添加这行
           commit_message: ${{ github.event.head_commit.message }}
