@@ -1,13 +1,13 @@
 ---
 # Display name
-title: UZIovo
+title: Xusheng Liangovo
 
 # Name pronunciation (optional)
-name_pronunciation: uzi
+name_pronunciation: LXS
 
 # Full name (for SEO)
-first_name: zihao
-last_name: Jian
+first_name: Xusheng
+last_name: Liang
 
 # Status emoji
 status:
